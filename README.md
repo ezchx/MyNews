@@ -10,6 +10,6 @@ Article pre-processing:
 
 User interface:  
 •	User clicks on an article  
-•	Article keywords are stored in user profile  
-•	Collaborative profiles are generated using KNN  
-•	Subsequent searches are based on custom collaborative profiles  
+•	Article keywords are stored in user's profile  
+•	A custom collaborative profile is generated using KNN  
+•	Subsequent searches are based on the user's custom collaborative profile
