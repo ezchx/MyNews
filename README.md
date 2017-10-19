@@ -1,0 +1,2 @@
+# MyNews
+Custom news feed.
