@@ -1,6 +1,6 @@
 # MyNews
 
-Custom news feed based on user content preferences and collaborative filtering:
+Custom news feed based on content preferences and collaborative filtering:
 
 Article pre-processing:  
 •	Read newsapi.org JSON feed  
@@ -9,7 +9,7 @@ Article pre-processing:
 •	Calculate article bias scores based on subjective word content  
 
 User interface:  
-•	Users click on articles  
-•	Article keywords are stored in user profiles  
-•	Collaborative user profiles are generated using KNN  
+•	User click on article  
+•	Article keywords are stored in user profile  
+•	Collaborative user profile is generated using KNN  
 •	Article sorting is based on collaborative user profiles
