@@ -1,6 +1,6 @@
 # MyNews
 
-MyNews is a custom news feed based on user content preferences and collaborative filtering:
+Custom news feed based on user content preferences and collaborative filtering:
 
 Article pre-processing:  
 •	Read newsapi.org JSON feed  
