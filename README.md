@@ -9,7 +9,7 @@ Article pre-processing:
 •	Calculate article bias scores based on subjective word content  
 
 User interface:  
-•	User click on article  
+•	User clicks on article  
 •	Article keywords are stored in user profile  
 •	Collaborative user profile is generated using KNN  
 •	Article sorting is based on collaborative user profiles
