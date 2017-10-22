@@ -1,6 +1,6 @@
 # MyNews
 
-Custom news feed based on content preferences and collaborative filtering:
+Custom news feed / recommender system based on content preferences and collaborative filtering:
 
 Article pre-processing:  
 •	Read newsapi.org JSON feed  
