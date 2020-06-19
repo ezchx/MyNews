@@ -13,3 +13,4 @@ User interface:
 •	Article keywords are stored in user profile  
 •	Collaborative user profile is generated using KNN  
 •	Article sorting is based on collaborative user profile
+ 
